@@ -7,7 +7,8 @@
     "ram": "3GB RAM",
     "storage": "64GB Storage"
   },
-  "price":2799
+  "price":2799,
+  "img":"./assets/images/mobile1.jpg"
 },
 {
     "brandName": "Samsung Galaxy M04",
@@ -17,7 +18,8 @@
       "ram": "4GB RAM",
       "storage": "128GB Storage"
     },
-    "price":8999
+    "price":8999,
+    "img":"./assets/images/mobile2.jpg"
   },
   {
     "brandName": "Oppo A78",
@@ -27,7 +29,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":15499
+    "price":15499,
+    "img":"./assets/images/mobile3.jpg"
   },
   {
     "brandName": "OnePlus Nord N20 SE",
@@ -37,7 +40,8 @@
       "ram": "4GB RAM",
       "storage": "64GB Storage"
     },
-    "price":14599
+    "price":14599,
+    "img":"./assets/images/mobile4.jpg"
   },
   {
     "brandName": "Samsung Galaxy M52 5G",
@@ -47,7 +51,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":26899
+    "price":26899,
+    "img":"./assets/images/mobile5.jpg"
   },
   {
     "brandName": "OnePlus Nord CE 3 5G",
@@ -57,7 +62,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":24999
+    "price":24999,
+    "img":"./assets/images/mobile6.jpg"
   },
   {
     "brandName": "OnePlus 11R 5G",
@@ -67,7 +73,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":37999
+    "price":37999,
+    "img":"./assets/images/mobile7.jpg"
   },
   {
     "brandName": "Samsung Galaxy A54 5G",
@@ -77,7 +84,8 @@
       "ram": "8GB RAM",
       "storage": "256GB Storage"
     },
-    "price":37499
+    "price":37499,
+    "img":"./assets/images/mobile8.jpg"
   },
   {
     "brandName": "Samsung Galaxy S23 FE 5G",
@@ -87,7 +95,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":49999
+    "price":49999,
+    "img":"./assets/images/mobile9.jpg"
   },
   {
     "brandName": "OnePlus 12R",
@@ -97,7 +106,8 @@
       "ram": "16GB RAM",
       "storage": "256GB Storage"
     },
-    "price":45999
+    "price":45999,
+    "img":"./assets/images/mobile10.jpg"
   },
   {
     "brandName": "Samsung Galaxy S23 FE 5G",
@@ -107,7 +117,8 @@
       "ram": "16GB RAM",
       "storage": "128GB Storage"
     },
-    "price":54999
+    "price":54999,
+    "img":"./assets/images/mobile11.jpg"
   },
   {
     "brandName": "OnePlus 11 5G",
@@ -117,7 +128,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":56999
+    "price":56999,
+    "img":"./assets/images/mobile12.jpg"
   },
   {
     "brandName": "OnePlus 11 5G",
@@ -127,7 +139,8 @@
       "ram": "16GB RAM",
       "storage": "256GB Storage"
     },
-    "price":61999
+    "price":61999,
+    "img":"./assets/images/mobile13.jpg"
   },
   {
     "brandName": "Samsung Galaxy S23 5G",
@@ -137,7 +150,8 @@
       "ram": "8GB RAM",
       "storage": "256GB Storage"
     },
-    "price":69999
+    "price":69999,
+    "img":"./assets/images/mobile15.jpg"
   },
   {
     "brandName": "Apple iPhone 15",
@@ -147,7 +161,8 @@
       "ram": "8GB RAM",
       "storage": "128GB Storage"
     },
-    "price":70999
+    "price":70999,
+    "img":"./assets/images/mobile16.jpg"
   }
 ]
   

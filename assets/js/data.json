@@ -78,6 +78,76 @@
       "storage": "256GB Storage"
     },
     "price":37499
+  },
+  {
+    "brandName": "Samsung Galaxy S23 FE 5G",
+    "color": "Mint",
+    "islatest" : false,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":49999
+  },
+  {
+    "brandName": "OnePlus 12R",
+    "color": "Cool Blue",
+    "islatest" : true,
+    "features": {
+      "ram": "16GB RAM",
+      "storage": "256GB Storage"
+    },
+    "price":45999
+  },
+  {
+    "brandName": "Samsung Galaxy S23 FE 5G",
+    "color": "Graphite",
+    "islatest" : false,
+    "features": {
+      "ram": "16GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":54999
+  },
+  {
+    "brandName": "OnePlus 11 5G",
+    "color": "Titan Black",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":56999
+  },
+  {
+    "brandName": "OnePlus 11 5G",
+    "color": "Eternal Green",
+    "islatest" : true,
+    "features": {
+      "ram": "16GB RAM",
+      "storage": "256GB Storage"
+    },
+    "price":61999
+  },
+  {
+    "brandName": "Samsung Galaxy S23 5G",
+    "color": "Green",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "256GB Storage"
+    },
+    "price":69999
+  },
+  {
+    "brandName": "Apple iPhone 15",
+    "color": "Black",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":70999
   }
 ]
   

@@ -1,0 +1,83 @@
+[
+{
+  "brandName": "Redmi A3",
+  "color": "Olive Green",
+  "islatest" : true,
+  "features": {
+    "ram": "3GB RAM",
+    "storage": "64GB Storage"
+  },
+  "price":2799
+},
+{
+    "brandName": "Samsung Galaxy M04",
+    "color": "Light Green",
+    "islatest" : false,
+    "features": {
+      "ram": "4GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":8999
+  },
+  {
+    "brandName": "Oppo A78",
+    "color": "Aqua Green",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":15499
+  },
+  {
+    "brandName": "OnePlus Nord N20 SE",
+    "color": "Blue",
+    "islatest" : true,
+    "features": {
+      "ram": "4GB RAM",
+      "storage": "64GB Storage"
+    },
+    "price":14599
+  },
+  {
+    "brandName": "Samsung Galaxy M52 5G",
+    "color": "ICY Blue",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":26899
+  },
+  {
+    "brandName": "OnePlus Nord CE 3 5G",
+    "color": "Aqua Surge",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":24999
+  },
+  {
+    "brandName": "OnePlus 11R 5G",
+    "color": "Galactic Silver",
+    "islatest" : false,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "128GB Storage"
+    },
+    "price":37999
+  },
+  {
+    "brandName": "Samsung Galaxy A54 5G",
+    "color": "Awesome Violet",
+    "islatest" : true,
+    "features": {
+      "ram": "8GB RAM",
+      "storage": "256GB Storage"
+    },
+    "price":37499
+  }
+]
+  

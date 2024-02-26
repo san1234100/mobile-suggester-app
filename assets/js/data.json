@@ -8,7 +8,7 @@
     "storage": "64GB Storage"
   },
   "price":2799,
-  "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile1.jpg"
+  "img":"./assets/images/mobile1.jpg"
 },
 {
     "brandName": "Samsung Galaxy M04",
@@ -19,7 +19,7 @@
       "storage": "128GB Storage"
     },
     "price":8999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile2.png"
+    "img":"./assets/images/mobile2.png"
   },
   {
     "brandName": "Oppo A78",
@@ -30,7 +30,7 @@
       "storage": "128GB Storage"
     },
     "price":15499,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile3.png"
+    "img":"./assets/images/mobile3.png"
   },
   {
     "brandName": "OnePlus Nord N20 SE",
@@ -41,7 +41,7 @@
       "storage": "64GB Storage"
     },
     "price":14599,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile4.png"
+    "img":"./assets/images/mobile4.png"
   },
   {
     "brandName": "Samsung Galaxy M52 5G",
@@ -52,7 +52,7 @@
       "storage": "128GB Storage"
     },
     "price":26899,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile5.png"
+    "img":"./assets/images/mobile5.png"
   },
   {
     "brandName": "OnePlus Nord CE 3 5G",
@@ -63,7 +63,7 @@
       "storage": "128GB Storage"
     },
     "price":24999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile6.png"
+    "img":"./assets/images/mobile6.png"
   },
   {
     "brandName": "OnePlus 11R 5G",
@@ -74,7 +74,7 @@
       "storage": "128GB Storage"
     },
     "price":37999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile7.png"
+    "img":"./assets/images/mobile7.png"
   },
   {
     "brandName": "Samsung Galaxy A54 5G",
@@ -85,7 +85,7 @@
       "storage": "256GB Storage"
     },
     "price":37499,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile8.png"
+    "img":"./assets/images/mobile8.png"
   },
   {
     "brandName": "Samsung Galaxy S23 FE 5G",
@@ -96,7 +96,7 @@
       "storage": "128GB Storage"
     },
     "price":49999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile9.png"
+    "img":"./assets/images/mobile9.png"
   },
   {
     "brandName": "OnePlus 12R",
@@ -107,7 +107,7 @@
       "storage": "256GB Storage"
     },
     "price":45999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile10.png"
+    "img":"./assets/images/mobile10.png"
   },
   {
     "brandName": "Samsung Galaxy S23 FE 5G",
@@ -118,7 +118,7 @@
       "storage": "128GB Storage"
     },
     "price":54999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile11.png"
+    "img":"./assets/images/mobile11.png"
   },
   {
     "brandName": "OnePlus 11 5G",
@@ -129,7 +129,7 @@
       "storage": "128GB Storage"
     },
     "price":56999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile12.png"
+    "img":"./assets/images/mobile12.png"
   },
   {
     "brandName": "OnePlus 11 5G",
@@ -140,7 +140,7 @@
       "storage": "256GB Storage"
     },
     "price":61999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile13.png"
+    "img":"./assets/images/mobile13.png"
   },
   {
     "brandName": "Samsung Galaxy S23 5G",
@@ -151,7 +151,7 @@
       "storage": "256GB Storage"
     },
     "price":69999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile15.png"
+    "img":"./assets/images/mobile15.png"
   },
   {
     "brandName": "Apple iPhone 15",
@@ -162,7 +162,7 @@
       "storage": "128GB Storage"
     },
     "price":70999,
-    "img":"https://san1234100.github.io/mobile-suggester-app/assets/images/mobile16.png"
+    "img":"./assets/images/mobile16.png"
   }
 ]
   
